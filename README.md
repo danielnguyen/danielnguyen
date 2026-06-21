@@ -8,7 +8,7 @@ Outside work, I build systems around local AI, durable LLM memory, orchestration
 
 Right now I'm working on:
 
-- Cognitive Control Plane: an experimental architecture for durable memory, runtime state, personas, world models, and companion behaviour
+- Cognitive Control Plane: an experimental architecture for durable memory, runtime state, personas, world models, and LLM behaviour
 - LLM Memory: a collection of services for retrieval, orchestration, cognitive runtime, and personal data integration
 - Vega HUD: an AI interface for Even Realities smart glasses
 - Homelab infrastructure: containerized services, automation, networking, storage, and local GPU inference
