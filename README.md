@@ -6,7 +6,7 @@ At work, I lead engineering teams through ambiguous, cross-functional problems, 
 
 Outside work, I build systems around local AI, durable LLM memory, orchestration, personal data integration, and self-hosted infrastructure.
 
-Right now I'm working on:
+Right now, the personal projects I'm working on:
 
 - Cognitive Control Plane: an experimental architecture for durable memory, runtime state, personas, world models, and LLM behaviour
 - LLM Memory: a collection of services for retrieval, orchestration, cognitive runtime, and personal data integration
